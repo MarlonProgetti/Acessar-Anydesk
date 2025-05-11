@@ -42,7 +42,7 @@ Clone este repositório e instale as dependências com:
 -  Execute o programa:
 -  python acessar_anydesk.py
 -  Preencha os campos com o nome do posto e o número do PDV desejado.
--  O programa abrirá o AnyDesk com o código correspondente automaticamente.
+-  O programa abrirá o AnyDesk com o código correspondente automaticamente após clicar no botão.
 
 ## ⚠️ Observações
 
