@@ -25,7 +25,6 @@ Através de uma planilha do Excel contendo os IDs de cada PDV, o usuário pode b
 
 Clone este repositório e instale as dependências com:
 
-- ```bash
 - pip install pandas pyautogui
 
 ## 📁 Estrutura esperada do Excel
@@ -34,8 +33,9 @@ Clone este repositório e instale as dependências com:
 
 - Exemplo:
 
-  -NOME DO POSTO-------PDV1----------PDV2
-  -NOMEDOPOSTO---------123456789-----987654321
+| NOME DO POSTO       | PDV1     | PDV2     |
+|---------------------|----------|----------|
+| CAMINHODOSPASSAROS  | 123456789| 987654321|
 
 ## ▶️ Como usar
   
