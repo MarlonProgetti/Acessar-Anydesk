@@ -34,8 +34,8 @@ Clone este repositório e instale as dependências com:
 
 - Exemplo:
 
-  NOME DO POSTO      	PDV1	        PDV2
-  NOMEDOPOSTO        	123456789	    987654321
+  -NOME DO POSTO-------PDV1----------PDV2
+  -NOMEDOPOSTO---------123456789-----987654321
 
 ## ▶️ Como usar
   
