@@ -35,7 +35,7 @@ Clone este repositório e instale as dependências com:
 
 | NOME DO POSTO       | PDV1     | PDV2     |
 |---------------------|----------|----------|
-| CAMINHODOSPASSAROS  | 123456789| 987654321|
+| NOMEDOPOSTO         | 123456789| 987654321|
 
 ## ▶️ Como usar
   
